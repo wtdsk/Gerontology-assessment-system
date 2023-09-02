@@ -1,0 +1,8 @@
+
+mybatis:
+  config-location: classpath:mybatis-config.xml
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/gerontologysystem?useSSL=false
+    username: root
+    password: 111111
